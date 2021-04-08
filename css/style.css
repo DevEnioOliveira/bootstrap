@@ -1,0 +1,61 @@
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+.navbar{
+    background-color: #5975A6;
+    
+}
+
+.quem-somos{
+    background-color: #B1B4BA;
+    color: white;
+}
+.margin{
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+#nav-color ul li a{
+    color: white;
+    font-weight: lighter;
+    text-shadow: black 3px 3px 3px;
+
+}
+
+#nav-color ul li a:hover{
+    color: rgb(43, 44, 46);
+    text-shadow: white 3px 3px 3px;
+    font-weight: 800;
+}
+
+.parceiros{
+    padding-top: 30px;
+    background-color: dimgray;
+    color: white;
+}
+
+.servicos{
+    background-color: lightslategray;
+    color: white;
+}
+
+h3{
+    text-shadow: black 3px 3px 3px;
+}
+
+.servicos img:hover{
+    box-shadow: black 5px 5px 5px;
+}
+
+.servicos p {
+    padding-top: 10px;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+    padding-bottom: 10px;
+}
